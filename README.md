@@ -1,9 +1,9 @@
-# Code-Refactor
+# **Code-refactor**
 
-# Description
+## Description
 The task for this assignment is to implement and improve the given code of Horiseon Website, so the codebase meet the accessibility standards, and is optimized for search engine.
 
-# Acceptance Criteria
+## Acceptance Criteria
     GIVEN a webpage meets accessibility standards
     WHEN I view the source code
     THEN I find semantic HTML elements
@@ -16,11 +16,11 @@ The task for this assignment is to implement and improve the given code of Horis
     WHEN I view the title element
     THEN I find a concise, descriptive title
 
-# Link
+## Link
 Deployed: https://carolyvn.github.io/code-refactor/
 
 
-# Screenshot 
+## Screenshot 
 ![screenshot_horiseon](https://user-images.githubusercontent.com/90424035/152305001-fbfdfcd6-28fe-4fb3-81f8-c30374825c72.png)
 
 
