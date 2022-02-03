@@ -21,7 +21,7 @@ Deployed: https://carolyvn.github.io/code-refactor/
 
 
 # Screenshot 
-
+![screenshot_horiseon](https://user-images.githubusercontent.com/90424035/152305001-fbfdfcd6-28fe-4fb3-81f8-c30374825c72.png)
 
 
 
