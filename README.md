@@ -1,4 +1,4 @@
-# **Code-refactor**
+# **Code-Refactor**
 
 ## Description
 The task for this assignment is to implement and improve the given code of Horiseon Website, so the codebase meet the accessibility standards, and is optimized for search engine.
